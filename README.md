@@ -1,10 +1,10 @@
-#Java Caesar Cipher 🔐
+# Java Caesar Cipher 🔐
 
 A simple Caesar Cipher Encoder and Decoder written in Java.
 This project demonstrates how to perform basic cryptography using ASCII values and modular arithmetic.
 
 ------------------------------------------------------------
-📌 Features
+## 📌 Features
 - Encode a sentence with a custom shift value
 - Decode back to the original text
 - Supports lowercase letters (a-z)
@@ -13,7 +13,7 @@ This project demonstrates how to perform basic cryptography using ASCII values a
 - Beginner-friendly Java implementation
 
 ------------------------------------------------------------
-🛠️ How It Works
+## 🛠️ How It Works
 The Caesar Cipher is a substitution cipher that shifts each letter of the text by a fixed number of positions in the alphabet.
 
 Example with shift = 3:
@@ -21,7 +21,7 @@ Plaintext:  HELLO
 Ciphertext: KHOOR
 
 ------------------------------------------------------------
-🚀 Usage
+## 🚀 Usage
 1. Clone this repository:
    git clone https://github.com/YourUsername/Java-Caesar-Cipher.git
 
@@ -32,13 +32,13 @@ Ciphertext: KHOOR
 3. Enter a sentence to encode/decode.
 
 ------------------------------------------------------------
-📂 File Structure
+## 📂 File Structure
 Main.java         -> Entry point of the program
 CaesarCipher.java -> Contains encode & decode methods
 README.md         -> Project documentation
 
 ------------------------------------------------------------
-✨ Example Output
+## ✨ Example Output
 Enter a sentence: Hello World!
 Encoded: Ebiil Tloia!
 Decoded: Hello World!
