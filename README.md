@@ -1,4 +1,5 @@
-Java Caesar Cipher 🔐
+#Java Caesar Cipher 🔐
+
 A simple Caesar Cipher Encoder and Decoder written in Java.
 This project demonstrates how to perform basic cryptography using ASCII values and modular arithmetic.
 
